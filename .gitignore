@@ -1,0 +1,18 @@
+# Data
+data/raw/
+data/processed/
+
+# Report outputs (regenerated on run)
+report/
+
+# Deployment artifacts
+lambda_deployment.zip
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
